@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Johan Alarcon</h1>
+<h1 align="center">Hi 👋, I'm</h1>
+<img src="https://media.licdn.com/dms/image/D4E16AQEnJixZa0rsXA/profile-displaybackgroundimage-shrink_350_1400/0/1697844226824?e=1703116800&v=beta&t=EwG4ho6zkMdZHS9jHYtdiHIakJhZmo-Au4hdzeSiksI" />
 <h3 align="center">a Systems Engineer passionate about code and innovation.</h3>
 
 <h3 align="left">Connect with me:</h3>
