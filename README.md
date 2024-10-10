@@ -1,12 +1,26 @@
-<h1 align="center">Hi 👋, I'm</h1>
-<img src="https://media.licdn.com/dms/image/D4E16AQEnJixZa0rsXA/profile-displaybackgroundimage-shrink_350_1400/0/1697844226824?e=1703116800&v=beta&t=EwG4ho6zkMdZHS9jHYtdiHIakJhZmo-Au4hdzeSiksI" />
-<h3 align="center">a Systems Engineer passionate about code and innovation.</h3>
+<div id="header" align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Angel-ISO.Angel-ISO" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Johan!" />
+</h1>
+<h3 align="center" style="color: #4A90E2;">
+    A Systems Engineer 🚀<br/>
+    Passionate about code and innovation 💻<br/>
+    Aiming to build scalable applications for the future! 🌍
+</h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/johanandres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="johanandres" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/johan-alarcon07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan-alarcon07" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/johan-alarcon07" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johan-alarcon07" height="30" width="40" />
+    </a>
+    <a href="mailto:alarconjohan928@gmail.com" target="blank">
+        <img align="center" src="https://img.icons8.com/ios-filled/50/000000/gmail-new.png" alt="gmail" height="30" width="40" />
+    </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -58,5 +72,4 @@
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a> 
 </p>
-
 
