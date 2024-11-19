@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Johan!" />
 </h1>
-<h3 align="center" style="color: #4A90E2;">
+<h3 align="left" style="color: #4A90E2;">
     A Systems Engineer 🚀<br/>
     Passionate about code and innovation 💻<br/>
     Aiming to build scalable applications for the future! 🌍
